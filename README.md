@@ -2,7 +2,7 @@
 
 This Python application allows users to organize their photos and videos by automatically sorting them into dedicated folders for Photos and Videos. It utilizes the Tkinter library for a simple, easy-to-use graphical interface, making it accessible for both beginners and advanced users.
 
-<img width="497" alt="project_screenshot" src="https://github.com/user-attachments/assets/35d6b9a1-b59f-4cd3-99c2-e22f668d530e" />
+<img width="496" alt="project_screenshot" src="https://github.com/user-attachments/assets/92d14536-102b-4c14-aea7-7fd1c40814f9" />
 
 ## Features
 - **Multi-folder support**: Select multiple source folders to sort photos and videos.
