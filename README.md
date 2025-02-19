@@ -24,3 +24,25 @@ This Python application allows users to organize their photos and videos by auto
 1. Clone this repository:
    ```bash
    git clone https://github.com/CarsonL15/photo-video-organizer.git
+   
+2. Navigate to the project folder:
+   ```bash
+   cd photo-organizer-gui
+
+3. Set up a virtual environment (optional but recommended):
+- On Mac:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+- On Windows:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+
+4. Install the required dependencies:
+   ```bash
+   pip install tkinter
+
+5. Run the script
+   ```bash
+   python photo_organizer_gui.py
